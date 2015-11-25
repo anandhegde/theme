@@ -1,0 +1,25 @@
+@media screen and ( min-width : 769px)
+{
+	#navigationbar
+	{
+		display: none;
+	}	
+}
+.centerimg 
+{
+   width: 20px;
+   height: 20px;
+   position: absolute;
+   left: 50%;
+   top: 50%; 
+   margin-left: -10px;
+   margin-top: -10px;
+}
+@media screen and ( max-width: 540px)
+{
+	.has-fixed-height
+	{
+		height: 250px;
+	}
+}
+		
